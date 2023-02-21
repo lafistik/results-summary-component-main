@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/lafistik/results-summary-component-main]()
-- Live Site URL: [https://lafistik.github.io/results-summary-component-main]()
+- Solution URL: [https://github.com/lafistik/results-summary-component-main]
+- Live Site URL: [https://lafistik.github.io/results-summary-component-main]
